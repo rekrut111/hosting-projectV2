@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rekrut111.github.io/hosting-project/">
+  <a href="https://rekrut111.github.io/hosting-projectV2/">
     <img src="https://img.shields.io/badge/Смотреть_проект-GitHub_Pages-blue?style=for-the-badge&logo=github" alt="Смотреть проект">
   </a>
   <img src="https://img.shields.io/badge/Статус-Завершен-success?style=for-the-badge" alt="Статус">
